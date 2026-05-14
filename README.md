@@ -1,6 +1,6 @@
 # 💫 About Me:
 # Rishav
-<br>Undergraduate student at BIT Mesra, focused on Data and Business Analytics.<br>My work centers on extracting meaning from data and applying it to business problems — whether that is identifying trends, building reports, or supporting decisions with evidence.<br>This portfolio documents my projects and technical progress across data analysis, visualization, and business intelligence.<br>📍 BIT Mesra  |  
+### Undergraduate student at BIT Mesra, focused on Data and Business Analytics.<br>My work centers on extracting meaning from data and applying it to business problems — whether that is identifying trends, building reports, or supporting decisions with evidence.<br>This portfolio documents my projects and technical progress across data analysis, visualization, and business intelligence.<br>📍 BIT Mesra  |  
 
 
 ## 🌐 Socials:
